@@ -1,11 +1,7 @@
-﻿{
+{
   "version": "1.0",
   "defaultProvider": "unpkg",
   "libraries": [
-    {
-      "library": "bootstrap@5.2.2",
-      "destination": "wwwroot/lib/bootstrap/"
-    },
     {
       "library": "jquery@3.6.1",
       "destination": "wwwroot/lib/jquery/",
@@ -25,6 +21,10 @@
         "jquery.fancybox.js",
         "jquery.fancybox.min.css"
       ]
+    },
+    {
+      "library": "bootstrap@5.2.2",
+      "destination": "wwwroot/lib/bootstrap/"
     }
   ]
 }

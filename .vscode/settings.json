@@ -1,0 +1,6 @@
+{
+    "scss.format.enable": true,
+    "scss.showErrors": true,
+    "scss.validate": true,
+    "scss.scanImportedFiles": true
+}

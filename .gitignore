@@ -39,7 +39,6 @@ $RECYCLE.BIN/
 .Trashes
 .VolumeIcon.icns
 
-
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
@@ -54,7 +53,6 @@ obj
 .vs
 bin
 Web.config
-wwwroot/lib
 launchSettings.json
 site.min.js
 site.min.js.map
